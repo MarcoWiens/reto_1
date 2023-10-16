@@ -2,4 +2,4 @@
 
 ### Reto 5 ¿Qué ha ocurrido al hacer el merge?
 
-Lo que ha sucedido es que me ha salido un conlfict porque los cam
+Lo que ha ocurrido es que se han juntado los cambios que he realizado en la rama2 con la rama main.
